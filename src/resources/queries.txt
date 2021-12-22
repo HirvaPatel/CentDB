@@ -1,0 +1,11 @@
+create table demo(id int, name varchar);
+create table customer(custid int, custname varchar, age int, orderid int, PRIMARY KEY (custid), FOREIGN KEY (orderid) REFERENCES Order(orderid));
+create table order(orderid int, userid int, PRIMARY KEY (userid));
+select * from user;
+select id from user;
+select * from user where id = 1;
+delete from demo where id=2;
+drop table demo;
+insert into demo(id, name) values(1, hirva);
+update user set name=hirva where id=3;
+select * from admin; insert into user(id, name) values(2, vikram);

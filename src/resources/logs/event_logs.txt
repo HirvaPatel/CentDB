@@ -1,0 +1,75 @@
+[2021-12-08-11:34:11] @hirva #Write Queries option chosen
+[2021-12-08-11:42:56] @sidharth #Write Queries option chosen
+[2021-12-08-11:43:58] @sidharth #Exception occurred while executing queries
+[2021-12-08-11:44:28] @sidharth #Exception occurred while executing queries
+[2021-12-08-11:50:01] @hirva #Execution Started
+[2021-12-08-11:50:02] @hirva #Write Queries option chosen
+[2021-12-08-11:54:01] @dhruv #Execution Started
+[2021-12-08-12:01:30] @hirva #Execution Started
+[2021-12-08-12:03:43] @hirva #Execution Started
+[2021-12-08-12:04:07] @dhruv #Execution Started
+[2021-12-08-12:08:49] @dhruv #Execution Started
+[2021-12-08-12:16:15] @hirva #Execution Started
+[2021-12-08-12:16:17] @hirva #Write Queries option chosen
+[2021-12-08-12:16:27] @hirva #Exception occurred while executing queries
+[2021-12-08-12:56:15] @hirva #Execution Started
+[2021-12-08-12:56:38] @hirva #Write Queries option chosen
+[2021-12-08-12:58:07] @hirva #Execution Started
+[2021-12-08-12:58:19] @hirva #Write Queries option chosen
+[2021-12-08-12:58:31] @hirva #Exception occurred while executing queries
+[2021-12-08-12:59:45] @hirva #Execution Started
+[2021-12-08-13:00:06] @hirva #Write Queries option chosen
+[2021-12-08-13:02:41] @hirva #Execution Started
+[2021-12-08-13:03:06] @hirva #Write Queries option chosen
+[2021-12-08-13:06:16] @hirva #Execution Started
+[2021-12-08-13:06:32] @hirva #Write Queries option chosen
+[2021-12-08-13:09:35] @hirva #Exception occurred while executing queries
+[2021-12-08-13:10:47] @hirva #Exception occurred while executing queries
+[2021-12-08-13:12:50] @hirva #Execution Started
+[2021-12-08-13:13:09] @hirva #Write Queries option chosen
+[2021-12-08-13:18:32] @hirva #Execution Started
+[2021-12-08-13:18:33] @hirva #Write Queries option chosen
+[2021-12-08-13:18:38] @hirva #Exception occurred while executing queries
+[2021-12-08-13:18:57] @hirva #Execution Started
+[2021-12-08-13:18:59] @hirva #Write Queries option chosen
+[2021-12-08-13:20:10] @hirva #Exception occurred while executing queries
+[2021-12-08-13:20:30] @hirva #Execution Started
+[2021-12-08-13:20:31] @hirva #Write Queries option chosen
+[2021-12-08-13:20:49] @hirva #Exception occurred while executing queries
+[2021-12-08-13:21:22] @hirva #Exception occurred while executing queries
+[2021-12-08-13:23:10] @hirva #Execution Started
+[2021-12-08-13:23:11] @hirva #Write Queries option chosen
+[2021-12-08-13:24:38] @hirva #Execution Started
+[2021-12-08-13:24:39] @hirva #Write Queries option chosen
+[2021-12-08-13:26:36] @hirva #Execution Started
+[2021-12-08-13:26:37] @hirva #Write Queries option chosen
+[2021-12-08-13:28:28] @hirva #Execution Started
+[2021-12-08-13:28:33] @hirva #Write Queries option chosen
+[2021-12-08-13:29:50] @hirva #Execution Started
+[2021-12-08-13:29:51] @hirva #Write Queries option chosen
+[2021-12-08-13:30:56] @hirva #Exception occurred while executing queries
+[2021-12-08-13:32:25] @hirva #Execution Started
+[2021-12-08-13:32:26] @hirva #Write Queries option chosen
+[2021-12-08-13:34:50] @hirva #Execution Started
+[2021-12-08-13:34:51] @hirva #Write Queries option chosen
+[2021-12-08-13:34:56] @hirva #Exception occurred while executing queries
+[2021-12-08-13:40:16] @hirva #Execution Started
+[2021-12-08-13:40:44] @hirva #Write Queries option chosen
+[2021-12-08-13:42:31] @hirva #Execution Started
+[2021-12-08-13:43:00] @hirva #Write Queries option chosen
+[2021-12-08-13:44:41] @hirva #Execution Started
+[2021-12-08-13:45:00] @hirva #Write Queries option chosen
+[2021-12-08-14:01:05] @hirva #Execution Started
+[2021-12-08-14:01:43] @hirva #Write Queries option chosen
+[2021-12-08-14:08:44] @hirva #Execution Started
+[2021-12-08-14:08:46] @hirva #Write Queries option chosen
+[2021-12-08-14:29:07] @hirva #Execution Started
+[2021-12-08-14:29:08] @hirva #Write Queries option chosen
+[2021-12-08-14:33:41] @hirva #Execution Started
+[2021-12-08-14:33:49] @hirva #Write Queries option chosen
+[2021-12-08-14:43:16] @hirva #Execution Started
+[2021-12-08-14:43:17] @hirva #Write Queries option chosen
+[2021-12-08-14:45:49] @hirva #Execution Started
+[2021-12-08-14:46:24] @hirva #Write Queries option chosen
+[2021-12-08-15:18:56] @vikram #Execution Started
+[2021-12-08-15:19:38] @dhruv #Execution Started

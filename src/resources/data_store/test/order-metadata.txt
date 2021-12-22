@@ -1,0 +1,4 @@
+table_name$column_name$datatype
+order$orderid$int$PK
+order$ordernumber$int
+order$userid$int$FK_User_userid

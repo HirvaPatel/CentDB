@@ -1,0 +1,3 @@
+table_name$column_name$datatype
+admin$id$int
+admin$name$varchar
